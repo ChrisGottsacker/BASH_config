@@ -158,7 +158,10 @@ PROMPT_DIRTRIM=3		#show only last 3 directories
 # Functions
 #
 # Some people use a different file for functions
+<<<<<<< HEAD
 # if [ -f "${HOME}/.bash_functions" ]; then
+=======
+>>>>>>> 2eb3807a830f7beee4af149957ff8d7a0be495bc
 #   source "${HOME}/.bash_functions"
 # fi
 #
