@@ -16,6 +16,8 @@ alias status='git status'
 alias push='git push'
 alias pull='git pull'
 
+alias javacw='javac -Xlint'  # view details of unchecked exceptions
+
 export EDITOR=vim
 
 alias bashrc='vim ~/.bashrc'  # edit this file
