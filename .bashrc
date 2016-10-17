@@ -16,6 +16,8 @@ alias status='git status'
 alias push='git push'
 alias pull='git pull'
 
+alias javacw='javac -Xlint'  # view details of unchecked exceptions
+
 export EDITOR=vim
 
 alias bashrc='vim ~/.bashrc'  # edit this file
@@ -158,10 +160,7 @@ PROMPT_DIRTRIM=3		#show only last 3 directories
 # Functions
 #
 # Some people use a different file for functions
-<<<<<<< HEAD
 # if [ -f "${HOME}/.bash_functions" ]; then
-=======
->>>>>>> 2eb3807a830f7beee4af149957ff8d7a0be495bc
 #   source "${HOME}/.bash_functions"
 # fi
 #
