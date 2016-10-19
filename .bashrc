@@ -21,6 +21,7 @@ alias javacw='javac -Xlint'  # view details of unchecked exceptions
 export EDITOR=vim
 
 alias bashrc='vim ~/.bashrc'  # edit this file
+alias bashdir='vim ~/.bash_dir_aliases'
 alias ls='ls --color'
 alias rm='rm -I'   # prompt once each time a group of files is deleted
 
